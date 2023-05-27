@@ -1,4 +1,5 @@
 This is my new project
 
 new change
-another new change
+
+new log entry change for test avoiding merge conflict
